@@ -1,0 +1,68 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXGroup section */
+		CDAFF8E414FE7A32000E2FC1 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		CDAFF8E614FE7A32000E2FC1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Patrick Schwab";
+			};
+			buildConfigurationList = CDAFF8E914FE7A32000E2FC1 /* Build configuration list for PBXProject "SWPMusterUE1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = CDAFF8E414FE7A32000E2FC1;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		CDAFF8EB14FE7A32000E2FC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		CDAFF8EC14FE7A32000E2FC1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CDAFF8E914FE7A32000E2FC1 /* Build configuration list for PBXProject "SWPMusterUE1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CDAFF8EB14FE7A32000E2FC1 /* Debug */,
+				CDAFF8EC14FE7A32000E2FC1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CDAFF8E614FE7A32000E2FC1 /* Project object */;
+}
